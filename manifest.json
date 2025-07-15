@@ -1,0 +1,6 @@
+{
+  "name": "ESP32 Wi-Fi Penetration Tool",
+  "version": "1.0",
+  "description": "A universal tool by risinek for implementing various Wi-Fi attacks on a ESP32. I have just added a simple flashing method.",
+  "icon": "/Images/wroom-icon.png"
+}
